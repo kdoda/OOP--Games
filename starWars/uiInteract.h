@@ -1,8 +1,6 @@
 /*********************************************
  * Header file:
  *    UI INTERFACE
- * Author:
- *    Br. Helfrich
  * Summary:
  *    This module will create an OpenGL window,
  *    enter the OpenGL main loop, and accept events.
