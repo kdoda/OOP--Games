@@ -6,7 +6,7 @@ Three C++ and OpenGL Console Games
    Features: 
    Multiple weapons (bombs, laser, bullets, sniper bullets) <br/>
    Fireworks when winning the game <br/>
-   Exploading big asteroids creates two medium ones and one small
-   Exploding medium asteroids creates two small ones
+   Exploading big asteroids creates two medium ones and one small <br/>
+   Exploding medium asteroids creates two small ones <br/>
    3D star effect in a 2D canvas 
    
